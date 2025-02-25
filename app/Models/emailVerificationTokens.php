@@ -8,5 +8,5 @@ class emailVerificationTokens extends Model
 {
    protected $fillable=[
     'email','token','code',
-   ]
+   ];
 }
